@@ -1,4 +1,6 @@
 public class autoCompleteCon {
+	// Adding comment to this class
+	// this is my second commit to github
 
     public String listOfString { get; set; }
  
